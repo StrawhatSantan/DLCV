@@ -32,11 +32,6 @@ Implementation of two white-box explanation methods for pretrained ResNet models
 - **GRADCAM (Gradient-weighted Class Activation Mapping)**
 - **FEM (Feature Extraction Maps)**
 
-## Lab 3: Transfer Learning and Fine-Tuning
-
-- Fine-tuning of ResNet models on a custom dataset.
-- Obtaining explanation maps for the fine-tuned models using implemented methods.
-
 ## Lab 6: Evaluation of Explanation Maps
 
 Loading finetuned model from lab one and performing all 4 explanation methods on it, and then performing Assessment of obtained explanation maps using the following evaluation metrics:
